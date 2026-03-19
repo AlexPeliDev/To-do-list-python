@@ -3,7 +3,7 @@
 Aplicación de lista de tareas hecha en Python.  
 Permite añadir, ver, completar y eliminar tareas, guardándolas en un archivo JSON.
 
-![Vista previa del programa](imagenes/Captura1.png)
+![Vista previa del programa](imagenes/demo.png)
 
 ## 🚀 Características
 - Ver tareas
